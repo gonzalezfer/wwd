@@ -1,0 +1,43 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como recurso activo.",
+    "visible": false,
+    "titulo": {
+      "ja": "リソースの例 (テンプレート)",
+      "en": "Example Resource Name (Template)",
+      "es": "Nombre de Recurso de Ejemplo (Plantilla)"
+    },
+    "descripcion": {
+      "ja": "学習教材やドキュメントフォルダについてのサンプル説明文。",
+      "en": "Example description for learning materials and documentation folder.",
+      "es": "Descripción de ejemplo sobre materiales de estudio."
+    },
+    "link": "https://drive.google.com/drive/folders/ejemplo"
+  },
+  {
+    "titulo": {
+      "ja": "ウェブ開発",
+      "en": "Web Development",
+      "es": "Desarrollo Web"
+    },
+    "descripcion": {
+      "ja": "HTML、CSS、JavaScript、React、最新Webフレームワークに関する厳選されたリソース、体系的な学習教材、チュートリアルのコレクション。",
+      "en": "Folder with resources, courses, and study materials on web development (HTML, CSS, JavaScript, Frameworks, etc.).",
+      "es": "Carpeta con recursos, cursos y materiales sobre desarrollo web (HTML, CSS, JavaScript, Frameworks, etc.)."
+    },
+    "link": "https://drive.google.com/drive/folders/1Fo1KaCk-SACJY3mC5EuOLVz8iYXf90oS?usp=drive_link"
+  },
+  {
+    "titulo": {
+      "ja": "プログラミング入門",
+      "en": "Introduction to Programming",
+      "es": "Introducción a la programación"
+    },
+    "descripcion": {
+      "ja": "ゼロから始める初心者向け教材：プログラミングの論理的思考、アルゴリズム、フローチャート、擬似コード、基礎概念を網羅。",
+      "en": "Resources to start from scratch. Programming logic, flowcharts, pseudocode, and fundamentals.",
+      "es": "Recursos para empezar desde cero. Lógica de programación, diagramas de flujo, pseudocódigo y más."
+    },
+    "link": "https://drive.google.com/drive/folders/1KJHf9AA_DfhSS3wfb4l0M3ym9fFK7eAS?usp=drive_link"
+  }
+]

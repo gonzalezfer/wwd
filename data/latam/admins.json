@@ -1,0 +1,441 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como admin activo.",
+    "visible": false,
+    "nombre": "Nombre y Apellido de Ejemplo (Plantilla)",
+    "descripcion": {
+      "es": "Rol o especialidad (ej. Fullstack Developer)",
+      "en": "Role or specialty (e.g. Fullstack Developer)",
+      "pt": "Função ou especialidade (ex. Fullstack Developer)"
+    },
+    "foto": "/img/default_profile.png",
+    "banner": "/img/default_banner.png",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Programación"
+      ],
+      "en": [
+        "Programming"
+      ],
+      "pt": [
+        "Programação"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/ejemplo"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://linkedin.com/in/ejemplo"
+      }
+    ]
+  },
+  {
+    "nombre": "Alexandro Mendez",
+    "descripcion": {
+      "es": "Frontend Developer",
+      "en": "Frontend Developer",
+      "pt": "Frontend Developer"
+    },
+    "foto": "https://i.pinimg.com/1200x/82/09/3c/82093c4e4a209c6ae1756429ffe23572.jpg",
+    "banner": "https://i.pinimg.com/originals/a3/30/8c/a3308c2100e2526873b3ae8b3ab47b57.gif",
+    "roles": {
+      "es": [
+        "Propietario"
+      ],
+      "en": [
+        "Owner"
+      ],
+      "pt": [
+        "Proprietário"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Avisos"
+      ],
+      "en": [
+        "Announcements"
+      ],
+      "pt": [
+        "Avisos"
+      ]
+    },
+    "links": []
+  },
+  {
+    "nombre": "Jota Mejia",
+    "descripcion": {
+      "es": "Frontend Developer",
+      "en": "Frontend Developer",
+      "pt": "Frontend Developer"
+    },
+    "foto": "/img/jota_mejia.jpeg",
+    "banner": "https://i.pinimg.com/originals/27/53/59/27535979db8dcdd20b4b954dc5547ac2.gif",
+    "roles": {
+      "es": [
+        "Fundador"
+      ],
+      "en": [
+        "Founder"
+      ],
+      "pt": [
+        "Fundador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Avisos"
+      ],
+      "en": [
+        "Announcements"
+      ],
+      "pt": [
+        "Avisos"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "linkedin",
+        "url": "https://www.linkedin.com/in/jhoan-mejia-a08439272/"
+      },
+      {
+        "tipo": "github",
+        "url": "https://github.com/Dsgnr-JM"
+      }
+    ]
+  },
+  {
+    "nombre": "Alex Quicaño",
+    "descripcion": {
+      "es": "Frontend Developer",
+      "en": "Frontend Developer",
+      "pt": "Frontend Developer"
+    },
+    "foto": "/img/alex_quicaño.jpeg",
+    "banner": "https://i.pinimg.com/originals/e2/37/67/e23767638fb72ccea204eab108555e82.gif",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Todos los grupos"
+      ],
+      "en": [
+        "All groups"
+      ],
+      "pt": [
+        "Todos os grupos"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/Alequenmc"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://www.linkedin.com/in/elver-alex-alarcon-quica%C3%B1o-696a87317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      }
+    ]
+  },
+  {
+    "nombre": "Fernando González",
+    "descripcion": {
+      "es": "Frontend Developer",
+      "en": "Frontend Developer",
+      "pt": "Frontend Developer"
+    },
+    "foto": "/img/default_profile.png",
+    "banner": "https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Todos los grupos"
+      ],
+      "en": [
+        "All groups"
+      ],
+      "pt": [
+        "Todos os grupos"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/gonzalezfer/"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "www.linkedin.com/in/gonzalez-fer"
+      }
+    ]
+  },
+  {
+    "nombre": "Andrea Fernandez",
+    "descripcion": {
+      "es": "Ciberseguridad",
+      "en": "Cybersecurity",
+      "pt": "Segurança da Informação"
+    },
+    "foto": "/img/andrea_fernandez.jpeg",
+    "banner": "https://i.pinimg.com/736x/45/89/57/45895701b7977a70e45429180830e126.jpg",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "GNU/Linux"
+      ],
+      "en": [
+        "GNU/Linux"
+      ],
+      "pt": [
+        "GNU/Linux"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "linkedin",
+        "url": "https://www.linkedin.com/in/andrea-bel%C3%A9n-fern%C3%A1ndez-varela-89a600332/"
+      }
+    ]
+  },
+  {
+    "nombre": "Luis Medina",
+    "descripcion": {
+      "es": "Frontend Developer",
+      "en": "Frontend Developer",
+      "pt": "Frontend Developer"
+    },
+    "foto": "/img/luis_medina.jpeg",
+    "banner": "/img/luis_medina_banner.gif",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Varios grupos"
+      ],
+      "en": [
+        "Multiple groups"
+      ],
+      "pt": [
+        "Vários grupos"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "linkedin",
+        "url": "https://www.linkedin.com/in/luis-medina-259805244/"
+      }
+    ]
+  },
+  {
+    "nombre": "Luiggy Carlin",
+    "descripcion": {
+      "es": "FullStack Developer",
+      "en": "FullStack Developer",
+      "pt": "FullStack Developer"
+    },
+    "foto": "/img/luiggy_carlin.jpeg",
+    "banner": "https://i.pinimg.com/originals/1a/4e/a5/1a4ea50c266ca383edca5a61c8f89508.gif",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Backend"
+      ],
+      "en": [
+        "Backend"
+      ],
+      "pt": [
+        "Backend"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/lgcarlinf"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://www.linkedin.com/in/luiggycf/"
+      }
+    ]
+  },
+  {
+    "nombre": "Maria Mancilla",
+    "descripcion": {
+      "es": "Ciberseguridad",
+      "en": "Cybersecurity",
+      "pt": "Segurança da Informação"
+    },
+    "foto": "/img/maria_mancilla.jpeg",
+    "banner": "https://i.pinimg.com/originals/97/8f/fa/978ffa208ed4b95b2ed244092b6ac6cc.gif",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Todos los grupos"
+      ],
+      "en": [
+        "All groups"
+      ],
+      "pt": [
+        "Todos os grupos"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/r-Maria-07"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://www.linkedin.com/in/maria-r-s-2762a2391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      }
+    ]
+  },
+  {
+    "nombre": "Jesús Ramos",
+    "descripcion": {
+      "es": "Backend Developer",
+      "en": "Backend Developer",
+      "pt": "Backend Developer"
+    },
+    "foto": "/img/jesus_ramos.jpeg",
+    "banner": "/img/jesus_ramos_banner.gif",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "GNU/Linux"
+      ],
+      "en": [
+        "GNU/Linux"
+      ],
+      "pt": [
+        "GNU/Linux"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/jessec01"
+      }
+    ]
+  },
+  {
+    "nombre": "Gregory Perozo",
+    "descripcion": {
+      "es": "Ingeniería de Datos",
+      "en": "Data Engineering",
+      "pt": "Engenharia de Dados"
+    },
+    "foto": "/img/gregory_perozo.jpeg",
+    "banner": "/img/gregory_perozo_banner.gif",
+    "roles": {
+      "es": [
+        "Moderador"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "es": [
+        "Varios grupos"
+      ],
+      "en": [
+        "Multiple groups"
+      ],
+      "pt": [
+        "Vários grupos"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/jessec01"
+      }
+    ]
+  }
+]

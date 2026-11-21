@@ -1,0 +1,36 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como evento activo.",
+    "visible": false,
+    "titulo": {
+      "ja": "イベント名の例 (テンプレート)",
+      "en": "Example Event Title (Template)",
+      "es": "Nombre del Evento de Ejemplo (Plantilla)"
+    },
+    "descripcion": {
+      "ja": "イベントの詳細な説明、登壇者、取り扱うトピックについての解説。",
+      "en": "Detailed description of the event, topics covered, and scheduled activities.",
+      "es": "Descripción detallada del evento, ponentes y actividades planeadas."
+    },
+    "fecha_inicio": "2026-12-31T18:00:00",
+    "imagen": "/img/networking_ad.png",
+    "color": "#1a1a2e",
+    "link": "https://chat.whatsapp.com/ejemplo-evento"
+  },
+  {
+    "titulo": {
+      "ja": "コミュニティ第3回記念アニバーサリー",
+      "en": "3rd Community Anniversary",
+      "es": "3° Aniversario"
+    },
+    "descripcion": {
+      "ja": "コミュニティ3周年を記念する特別イベント！ライトニングトーク、交流アクティビティ、プレゼント企画など、すべての開発者を歓迎します。",
+      "en": "Celebrating 3 years of community! Join this special event filled with tech talks, fun activities, prizes, and surprises for all developers.",
+      "es": "¡Celebramos 3 años de comunidad! Únete a este evento especial lleno de charlas, dinámicas, premios y sorpresas para todos los desarrolladores."
+    },
+    "fecha_inicio": "2027-01-03T06:00:00",
+    "imagen": "/img/3_aniversario_ad.png",
+    "color": "#033246",
+    "link": "https://chat.whatsapp.com/CznayZtpbo47GnOlxiBvPS"
+  }
+]

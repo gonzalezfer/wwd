@@ -1,0 +1,23 @@
+[
+  {
+    "valor": "500+",
+    "etiqueta": {
+      "ja": "アクティブメンバー",
+      "en": "Active Members"
+    }
+  },
+  {
+    "valor": "1",
+    "etiqueta": {
+      "ja": "WhatsAppグループ",
+      "en": "WhatsApp Groups"
+    }
+  },
+  {
+    "valor": "1",
+    "etiqueta": {
+      "ja": "予定されているイベント",
+      "en": "Scheduled Events"
+    }
+  }
+]

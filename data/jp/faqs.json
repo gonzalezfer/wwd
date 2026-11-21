@@ -1,0 +1,76 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como FAQ activa.",
+    "visible": false,
+    "pregunta": {
+      "ja": "質問の例 (テンプレート)",
+      "en": "Example Question (Template)",
+      "es": "Pregunta de Ejemplo (Plantilla)"
+    },
+    "respuesta": {
+      "ja": "回答の例。わかりやすく簡潔に説明します。",
+      "en": "Example answer explaining the query clearly and concisely.",
+      "es": "Respuesta de ejemplo explicando claramente."
+    }
+  },
+  {
+    "pregunta": {
+      "ja": "WhatsAppグループに参加するにはどうすればいいですか？",
+      "en": "How can I join a WhatsApp group?",
+      "es": "¿Cómo puedo unirme a un grupo de WhatsApp?"
+    },
+    "respuesta": {
+      "ja": "「グループ」セクションを開き、興味のあるトピックのグループを見つけてクリックするだけです。自動的にWhatsAppのグループ参加リンクへ移動します。",
+      "en": "Simply go to the 'Groups' section, find the group you are interested in, and click on it. This will redirect you to WhatsApp.",
+      "es": "Simplemente ve a la sección 'Grupos', encuentra el grupo que te interesa y haz clic en él. Esto te redirigirá a WhatsApp."
+    }
+  },
+  {
+    "pregunta": {
+      "ja": "グループや学習リソースの利用に料金はかかりますか？",
+      "en": "Do the groups or resources cost anything?",
+      "es": "¿Tienen algún costo los grupos o los recursos?"
+    },
+    "respuesta": {
+      "ja": "一切料金はかかりません。World Wide Dev'sコミュニティのすべてのリソース、グループ、イベントは完全無料です。金銭的障壁なく共に学び成長することが私たちの目的です。",
+      "en": "No. Everything in the DEVS Community is completely free. Our goal is to learn and grow together without barriers.",
+      "es": "No. Todo en la Comunidad DEVS es completamente gratuito. Nuestro objetivo es aprender y crecer juntos sin barreras."
+    }
+  },
+  {
+    "pregunta": {
+      "ja": "誤ってルールに違反してしまった場合、どうすればいいですか？",
+      "en": "I broke a rule, what should I do?",
+      "es": "Incumplí una regla, ¿qué hago?"
+    },
+    "respuesta": {
+      "ja": "誤って警告を受けたり退出させられた場合、または決定に対して異議を申し立てたい場合は、「運営チーム」セクションに記載されている管理者に個別にご連絡ください。事前にコミュニティの行動規範を確認することをお勧めします。",
+      "en": "If you have been warned or removed by mistake, or if you wish to appeal a decision, please contact one of the admins (listed in the 'Admins' section) privately to discuss the situation respectfully. We recommend reviewing our Code of Conduct.",
+      "es": "Si has sido advertido o expulsado por error, o si quieres apelar una decisión, por favor contacta a uno de los administradores (listados en la sección 'Administradores') por privado para discutir la situación de manera respetuosa. Te recomendamos leer nuestro Código de Conducta."
+    }
+  },
+  {
+    "pregunta": {
+      "ja": "新しい技術グループの開設を提案することはできますか？",
+      "en": "Can I suggest a new group?",
+      "es": "¿Puedo sugerir un nuevo grupo?"
+    },
+    "respuesta": {
+      "ja": "もちろんです！コミュニティはメンバー全員で作っていくものです。提案したい技術やテーマについて、いつでも管理者に気軽にご相談ください。",
+      "en": "Sure! The community is built by all of us. Contact any admin with your idea and community interest.",
+      "es": "¡Claro! La comunidad la construimos todos. Contacta a cualquier administrador con tu propuesta y el interés que haya en el tema."
+    }
+  },
+  {
+    "pregunta": {
+      "ja": "どうすればコミュニティの管理者（Admin）になれますか？",
+      "en": "How can I become an admin?",
+      "es": "¿Cómo puedo convertirme en administrador?"
+    },
+    "respuesta": {
+      "ja": "管理者は、リーダーシップを発揮し、他のメンバーを積極的に支援し、コミュニティの良好で秩序ある環境作りに貢献している信頼できるアクティブメンバーから選出されます。",
+      "en": "Admins are active and trusted community members who show leadership, help others, and actively keep the community welcoming and organized.",
+      "es": "Los administradores son miembros activos y de confianza de la comunidad que demuestran liderazgo, colaboran con los demás y mantienen un ambiente ordenado."
+    }
+  }
+]

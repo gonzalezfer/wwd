@@ -1,0 +1,329 @@
+{
+  "regionTitle": {
+    "es": "Región",
+    "en": "Region",
+    "pt": "Região",
+    "ja": "地域"
+  },
+  "languageTitle": {
+    "es": "Idioma",
+    "en": "Language",
+    "pt": "Idioma",
+    "ja": "言語"
+  },
+  "joinCommunity": {
+    "es": "Unirse a la comunidad",
+    "en": "Join the community",
+    "pt": "Juntar-se à comunidade",
+    "ja": "コミュニティに参加"
+  },
+  "registerProject": {
+    "es": "Inscribir proyecto para Networking",
+    "en": "Register project for Networking",
+    "pt": "Inscrever projeto para Networking",
+    "ja": "プロジェクトを登録"
+  },
+  "viewDetails": {
+    "es": "Ver detalles",
+    "en": "View details",
+    "pt": "Ver detalhes",
+    "ja": "詳細を見る"
+  },
+  "loading": {
+    "es": "Cargando...",
+    "en": "Loading...",
+    "pt": "Carregando...",
+    "ja": "読み込み中..."
+  },
+  "loadingCountdown": {
+    "es": "Cargando cuenta regresiva...",
+    "en": "Loading countdown...",
+    "pt": "Carregando contagem regressiva...",
+    "ja": "カウントダウンを読み込み中..."
+  },
+  "comingSoon": {
+    "es": "Próximamente",
+    "en": "Coming soon",
+    "pt": "Em breve",
+    "ja": "近日公開"
+  },
+  "defaultAdminRole": {
+    "es": "Administrador",
+    "en": "Administrator",
+    "pt": "Administrador",
+    "ja": "管理者"
+  },
+  "defaultColabRole": {
+    "es": "Colaborador",
+    "en": "Collaborator",
+    "pt": "Colaborador",
+    "ja": "協力者"
+  },
+  "defaultGroupSubtitle": {
+    "es": "Grupo de WhatsApp",
+    "en": "WhatsApp Group",
+    "pt": "Grupo do WhatsApp",
+    "ja": "WhatsAppグループ"
+  },
+  "defaultEventDesc": {
+    "es": "Evento de la comunidad.",
+    "en": "Community event.",
+    "pt": "Evento da comunidade.",
+    "ja": "コミュニティイベント。"
+  },
+  "noGroups": {
+    "es": "No hay grupos disponibles en este momento.",
+    "en": "No groups available at this time.",
+    "pt": "Não há grupos disponíveis no momento.",
+    "ja": "現在利用可能なグループはありません。"
+  },
+  "noEvents": {
+    "es": "No hay eventos programados en este momento.",
+    "en": "No events scheduled at this time.",
+    "pt": "Não há eventos programados no momento.",
+    "ja": "現在予定されているイベントはありません。"
+  },
+  "noAdmins": {
+    "es": "No se pudo cargar la lista de administradores.",
+    "en": "Could not load the administrators list.",
+    "pt": "Não foi possível carregar a lista de administradores.",
+    "ja": "管理者リストを読み込めませんでした。"
+  },
+  "noColabs": {
+    "es": "No se pudo cargar la lista de colaboradores.",
+    "en": "Could not load the collaborators list.",
+    "pt": "Não foi possível carregar a lista de colaboradores.",
+    "ja": "協力者リストを読み込めませんでした。"
+  },
+  "noFaqs": {
+    "es": "No hay preguntas frecuentes en este momento.",
+    "en": "No FAQs available at this time.",
+    "pt": "Não há perguntas frequentes no momento.",
+    "ja": "現在よくある質問はありません。"
+  },
+  "footerDesc": {
+    "es": "Comunidad abierta de programación y tecnología en Latinoamérica. Aprende, comparte e impulsa tu camino en el desarrollo de software.",
+    "en": "Open programming and tech community. Learn, share, and accelerate your software development journey.",
+    "pt": "Comunidade aberta de programação e tecnologia. Aprenda, compartilhe e impulsione sua jornada no desenvolvimento de software.",
+    "ja": "オープンなプログラミング＆テクノロジーコミュニティ。学び、共有し、ソフトウェア開発の道を切り拓きましょう。"
+  },
+  "footerNav": {
+    "es": "Navegación",
+    "en": "Navigation",
+    "pt": "Navegação",
+    "ja": "ナビゲーション"
+  },
+  "footerAbout": {
+    "es": "Presentación",
+    "en": "About",
+    "pt": "Apresentação",
+    "ja": "紹介"
+  },
+  "footerGroups": {
+    "es": "Grupos",
+    "en": "Groups",
+    "pt": "Grupos",
+    "ja": "グループ"
+  },
+  "footerEvents": {
+    "es": "Eventos",
+    "en": "Events",
+    "pt": "Eventos",
+    "ja": "イベント"
+  },
+  "footerAdmins": {
+    "es": "Administradores",
+    "en": "Administrators",
+    "pt": "Administradores",
+    "ja": "管理者"
+  },
+  "footerColabs": {
+    "es": "Colaboradores",
+    "en": "Collaborators",
+    "pt": "Colaboradores",
+    "ja": "協力者"
+  },
+  "footerFaqs": {
+    "es": "Preguntas Frecuentes",
+    "en": "Frequently Asked Questions",
+    "pt": "Perguntas Frequentes",
+    "ja": "よくある質問"
+  },
+  "prevSlide": {
+    "es": "Anterior",
+    "en": "Previous",
+    "pt": "Anterior",
+    "ja": "前へ"
+  },
+  "nextSlide": {
+    "es": "Siguiente",
+    "en": "Next",
+    "pt": "Próximo",
+    "ja": "次へ"
+  },
+  "countdownDays": {
+    "es": "Días",
+    "en": "Days",
+    "pt": "Dias",
+    "ja": "日"
+  },
+  "countdownHours": {
+    "es": "Horas",
+    "en": "Hours",
+    "pt": "Horas",
+    "ja": "時間"
+  },
+  "countdownMinutes": {
+    "es": "Min",
+    "en": "Min",
+    "pt": "Min",
+    "ja": "分"
+  },
+  "countdownSeconds": {
+    "es": "Seg",
+    "en": "Sec",
+    "pt": "Seg",
+    "ja": "秒"
+  },
+  "bentoEventsTitle": {
+    "es": "Próximos Eventos",
+    "en": "Upcoming Events",
+    "pt": "Próximos Eventos",
+    "ja": "今後のイベント"
+  },
+  "bentoEventsDesc": {
+    "es": "Charlas técnicas, mentorías y talleres en vivo de la comunidad.",
+    "en": "Technical talks, mentorships, and live community workshops.",
+    "pt": "Palestras técnicas, mentorias e workshops ao vivo da comunidade.",
+    "ja": "テクニカルトーク、メンターシップ、ライブワークショップ。"
+  },
+  "bentoColabTitle": {
+    "es": "Colaboradores Destacados",
+    "en": "Featured Collaborators",
+    "pt": "Colaboradores em Destaque",
+    "ja": "注目のコラボレーター"
+  },
+  "bentoColabDesc": {
+    "es": "Conoce a los miembros y curadores que impulsan nuestra comunidad.",
+    "en": "Meet the active members and curators powering our community.",
+    "pt": "Conheça os membros e curadores que impulsionam nossa comunidade.",
+    "ja": "コミュニティを推進するアクティブメンバーとキュレーター。"
+  },
+  "exploreAllGroups": {
+    "es": "Explorar todos los grupos",
+    "en": "Explore all groups",
+    "pt": "Explorar todos os grupos",
+    "ja": "すべてのグループを見る"
+  },
+  "navExplore": {
+    "es": "Explorar",
+    "en": "Explore",
+    "pt": "Explorar",
+    "ja": "探索"
+  },
+  "navAdmins": {
+    "es": "Administradores",
+    "en": "Administrators",
+    "pt": "Administradores",
+    "ja": "管理者"
+  },
+  "navPresentacion": {
+    "es": "Presentación",
+    "en": "Presentation",
+    "pt": "Apresentação",
+    "ja": "プレゼンテーション"
+  },
+  "navGrupos": {
+    "es": "Grupos",
+    "en": "Groups",
+    "pt": "Grupos",
+    "ja": "グループ"
+  },
+  "navEventos": {
+    "es": "Eventos",
+    "en": "Events",
+    "pt": "Eventos",
+    "ja": "イベント"
+  },
+  "navEquipo": {
+    "es": "Equipo",
+    "en": "Team",
+    "pt": "Equipe",
+    "ja": "チーム"
+  },
+  "navFaqs": {
+    "es": "FAQs",
+    "en": "FAQs",
+    "pt": "FAQs",
+    "ja": "FAQ"
+  },
+  "navProjects": {
+    "es": "Proyectos",
+    "en": "Projects",
+    "pt": "Projetos",
+    "ja": "プロジェクト"
+  },
+  "networkingStep": {
+    "es": "Paso {current} de {total}",
+    "en": "Step {current} of {total}",
+    "pt": "Passo {current} de {total}"
+  },
+  "networkingBtnNext": {
+    "es": "Continuar",
+    "en": "Continue",
+    "pt": "Continuar"
+  },
+  "networkingBtnPrev": {
+    "es": "Atrás",
+    "en": "Back",
+    "pt": "Voltar"
+  },
+  "networkingBtnSubmit": {
+    "es": "Inscribir mi Proyecto",
+    "en": "Submit Project",
+    "pt": "Inscrever Projeto"
+  },
+  "networkingSuccessTitle": {
+    "es": "¡Proyecto registrado con éxito!",
+    "en": "Project successfully registered!",
+    "pt": "Projeto registrado com sucesso!"
+  },
+  "networkingSuccessDesc": {
+    "es": "Hemos recibido tu postulación para la sesión de Networking. Nuestro equipo la revisará y te contactará por correo y WhatsApp.",
+    "en": "We have received your application for the Networking session. Our team will review it and contact you via email and WhatsApp.",
+    "pt": "Recebemos sua inscrição para a sessão de Networking. Nossa equipe entrará em contato via email e WhatsApp."
+  },
+  "networkingRegisterAnother": {
+    "es": "Registrar otro proyecto",
+    "en": "Register another project",
+    "pt": "Registrar outro projeto"
+  },
+  "networkingSponsorsTitle": {
+    "es": "Patrocinadores & Aliados del Networking",
+    "en": "Networking Sponsors & Partners",
+    "pt": "Patrocinadores & Parceiros do Networking"
+  },
+  "networkingSponsorsDesc": {
+    "es": "Empresas, herramientas y comunidades que impulsan las sesiones de Networking.",
+    "en": "Companies, tools, and communities powering our Networking sessions.",
+    "pt": "Empresas, ferramentas e comunidades que impulsionam nossas sessões de Networking."
+  },
+  "backToProjects": {
+    "es": "Volver a Proyectos",
+    "en": "Back to Projects",
+    "pt": "Voltar aos Projetos",
+    "ja": "プロジェクト一覧に戻る"
+  },
+  "visitProject": {
+    "es": "Visitar sitio web",
+    "en": "Visit website",
+    "pt": "Visitar website",
+    "ja": "ウェブサイトを見る"
+  },
+  "projectCreator": {
+    "es": "Creador / Equipo",
+    "en": "Creator / Team",
+    "pt": "Criador / Equipe",
+    "ja": "作成者 / チーム"
+  }
+}

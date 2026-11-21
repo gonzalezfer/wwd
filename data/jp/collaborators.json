@@ -1,0 +1,32 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como colaborador activo.",
+    "visible": false,
+    "nombre": "協力者の例 (テンプレート)",
+    "descripcion": {
+      "ja": "コミュニティにおける主な貢献または役割",
+      "en": "Role or featured contribution to the community"
+    },
+    "foto": "Fotografia-horizontal-o-vertical-Foto-de-Claudia-Nicolow.jpg",
+    "grupos": {
+      "ja": [
+        "リソース",
+        "貢献"
+      ],
+      "en": [
+        "Resources",
+        "Contributions"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/ejemplo"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://linkedin.com/in/ejemplo"
+      }
+    ]
+  }
+]

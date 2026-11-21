@@ -1,0 +1,40 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como grupo activo.",
+    "visible": false,
+    "titulo": {
+      "ja": "グループの例 (テンプレート)",
+      "en": "Example Group Name (Template)",
+      "es": "Nombre del Grupo de Ejemplo (Plantilla)"
+    },
+    "descripcion": {
+      "ja": "グループの目的や取り扱う技術トピックを説明するサンプル説明文。",
+      "en": "Example description explaining the purpose of the group and tech topics discussed.",
+      "es": "Descripción de ejemplo explicando el propósito del grupo y temas tecnológicos tratados."
+    },
+    "idiomas": [
+      "ja",
+      "en"
+    ],
+    "link": "https://chat.whatsapp.com/ejemplo-enlace-aqui",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": {
+      "ja": "プログラミング・ディスカッション",
+      "en": "Programming Discussion",
+      "es": "Programación"
+    },
+    "descripcion": {
+      "ja": "一般的な議論、コードの疑問、ベストプラクティス、ソフトウェア開発の基本概念に関するディスカッション。",
+      "en": "General discussion, code questions, best practices, and core concepts.",
+      "es": "Debate general, dudas de código, buenas prácticas y conceptos fundamentales."
+    },
+    "idiomas": [
+      "ja",
+      "en"
+    ],
+    "link": "https://chat.whatsapp.com/Ju1sMX4JsmMFLhrFuzwCuk",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  }
+]

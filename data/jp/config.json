@@ -1,0 +1,145 @@
+{
+  "sections": [
+    {
+      "id": "hero-slider",
+      "type": "hero-slider",
+      "dataFile": "carousel.json"
+    },
+    {
+      "id": "presentacion",
+      "type": "presentation",
+      "title": {
+        "ja": "日本の開発者のための出会いと成長の場",
+        "en": "The Meeting Point for Developers in Japan"
+      },
+      "subtitle": {
+        "ja": "World Wide Dev'sは、プログラマー、学生、テクノロジー愛好家が知識を共有し、プロジェクトで協力し、共にキャリアを築く協調型コミュニティです。",
+        "en": "World Wide Dev's is a collaborative ecosystem where programmers, students, and tech enthusiasts share knowledge, collaborate on projects, and grow their careers together."
+      },
+      "dataFile": "",
+      "showInNav": true,
+      "navLabel": {
+        "es": "Presentación",
+        "en": "Presentation",
+        "pt": "Apresentação",
+        "ja": "プレゼンテーション"
+      },
+      "navAction": "switchPage('presentacion')"
+    },
+    {
+      "id": "stats",
+      "type": "stats-strip",
+      "dataFile": "stats.json"
+    },
+    {
+      "id": "content-grupos",
+      "type": "grupos-grid",
+      "dataFile": "groups.json",
+      "title": {
+        "ja": "専門グループ",
+        "en": "Specialized Groups"
+      },
+      "subtitle": {
+        "ja": "技術、学習分野、開発テーマごとのWhatsAppチャットルーム。",
+        "en": "WhatsApp rooms organized by technologies, study areas and development."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Grupos",
+        "en": "Groups",
+        "pt": "Grupos",
+        "ja": "グループ"
+      },
+      "navAction": "switchPage('grupos')"
+    },
+    {
+      "id": "content-proyectos",
+      "type": "proyectos-grid",
+      "dataFile": "projects.json",
+      "title": {
+        "es": "Proyectos",
+        "en": "Projects"
+      },
+      "subtitle": {
+        "es": "Proyectos creados y desarrollados por la comunidad.",
+        "en": "Projects created and developed by the community."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Proyectos",
+        "en": "Projects",
+        "pt": "Projetos",
+        "ja": "プロジェクト"
+      },
+      "navAction": "switchPage('projects')"
+    },
+    {
+      "id": "content-eventos",
+      "type": "eventos-carousel",
+      "dataFile": "events.json",
+      "title": {
+        "ja": "今後のイベント",
+        "en": "Upcoming Events"
+      },
+      "subtitle": {
+        "ja": "コミュニティメンバーが開催する技術トーク、メンターシップ、実践的ワークショップ。",
+        "en": "Talks, mentorships and workshops organized by community members."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Eventos",
+        "en": "Events",
+        "pt": "Eventos",
+        "ja": "イベント"
+      },
+      "navAction": "switchPage('eventos')"
+    },
+    {
+      "id": "content-admins",
+      "type": "admins-roster",
+      "dataFile": "admins.json",
+      "title": {
+        "ja": "運営チーム",
+        "en": "Administrative Team"
+      },
+      "subtitle": {
+        "ja": "コミュニティの運営と活動をリードする開発者およびコーディネーター。",
+        "en": "Developers and coordinators responsible for managing the community."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Equipo",
+        "en": "Team",
+        "pt": "Equipe",
+        "ja": "チーム"
+      },
+      "navAction": "switchPage('equipo')"
+    },
+    {
+      "id": "content-faqs",
+      "type": "faqs-accordion",
+      "dataFile": "faqs.json",
+      "title": {
+        "ja": "よくある質問 (FAQ)",
+        "en": "Frequently Asked Questions"
+      },
+      "subtitle": {
+        "ja": "ルール、参加方法、コミュニティへのアクセスに関する回答。",
+        "en": "Answers to common questions about rules, participation and community access."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "FAQs",
+        "en": "FAQs",
+        "pt": "FAQs",
+        "ja": "よくある質問"
+      },
+      "navAction": "switchPage('faqs')"
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "dataFile": "footer.json"
+    }
+  ]
+}

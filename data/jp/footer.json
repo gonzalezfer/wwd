@@ -1,0 +1,313 @@
+{
+  "brand": {
+    "name": "World Wide Dev's",
+    "logoText": "W",
+    "description": {
+      "ja": "日本の開発者のためのオープンなプログラミング＆テクノロジーコミュニティ。学び、知識を共有し、ソフトウェア開発の道を切り拓きましょう。",
+      "en": "Open programming and tech community in Japan. Learn, share knowledge, and accelerate your software development journey.",
+      "es": "Comunidad abierta de programación y tecnología en Japón. Aprende, comparte e impulsa tu camino en el desarrollo de software."
+    }
+  },
+  "columnGroups": [
+    {
+      "sections": [
+        {
+          "title": {
+            "ja": "コミュニティ",
+            "en": "Community",
+            "es": "Comunidad"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "紹介",
+                "en": "About",
+                "es": "Presentación"
+              },
+              "page": "presentacion"
+            },
+            {
+              "label": {
+                "ja": "専門グループ",
+                "en": "Specialized Groups",
+                "es": "Grupos"
+              },
+              "page": "grupos"
+            },
+            {
+              "label": {
+                "ja": "今後のイベント",
+                "en": "Upcoming Events",
+                "es": "Eventos"
+              },
+              "page": "eventos"
+            }
+          ]
+        },
+        {
+          "title": {
+            "ja": "参加する",
+            "en": "Get Involved",
+            "es": "Participación"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "コミュニティに参加 ↗",
+                "en": "Join Community ↗",
+                "es": "Unirse a la comunidad ↗"
+              },
+              "url": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo"
+            },
+            {
+              "label": {
+                "ja": "オフトピック・ラウンジ ↗",
+                "en": "Off Topic Lounge ↗",
+                "es": "Espacio Off Topic ↗"
+              },
+              "url": "https://chat.whatsapp.com/GGVveaOckI3Dwcx8m7MD3S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": {
+            "ja": "プロジェクト",
+            "en": "Projects",
+            "es": "Proyectos"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "プロジェクト一覧",
+                "en": "Project Showcase",
+                "es": "Galería de proyectos"
+              },
+              "page": "projects"
+            },
+            {
+              "label": {
+                "ja": "コミュニティプロジェクト",
+                "en": "Community Projects",
+                "es": "Proyectos de la comunidad"
+              },
+              "page": "projects"
+            }
+          ]
+        },
+        {
+          "title": {
+            "ja": "エコシステム",
+            "en": "Ecosystem",
+            "es": "Ecosistema"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "Byte Mini (AIアシスタント)",
+                "en": "Byte Mini (AI Assistant)",
+                "es": "Byte Mini (AI Assistant)"
+              },
+              "action": "toggleAIChatModal()"
+            },
+            {
+              "label": {
+                "ja": "行動規範",
+                "en": "Code of Conduct",
+                "es": "Código de Conducta"
+              },
+              "page": "faqs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": {
+            "ja": "公式チャンネル",
+            "en": "Official Channels",
+            "es": "Canales Oficiales"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "公式WhatsApp ↗",
+                "en": "Official WhatsApp ↗",
+                "es": "WhatsApp Oficial ↗"
+              },
+              "url": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo"
+            },
+            {
+              "label": {
+                "ja": "公式YouTube ↗",
+                "en": "Official YouTube ↗",
+                "es": "Canal de YouTube ↗"
+              },
+              "url": "https://www.youtube.com/@devs-latam"
+            }
+          ]
+        },
+        {
+          "title": {
+            "ja": "リソース",
+            "en": "Resources",
+            "es": "Recursos"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "コミュニティからのお知らせ",
+                "en": "Announcements",
+                "es": "Avisos"
+              },
+              "page": "grupos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": {
+            "ja": "運営チーム",
+            "en": "Team",
+            "es": "Equipo"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "運営チーム",
+                "en": "Administrative Team",
+                "es": "Equipo Administrativo"
+              },
+              "page": "equipo"
+            },
+            {
+              "label": {
+                "ja": "運営に応募する",
+                "en": "Apply as admin",
+                "es": "Postularse como admin"
+              },
+              "page": "faqs"
+            }
+          ]
+        },
+        {
+          "title": {
+            "ja": "サポート",
+            "en": "Support",
+            "es": "Soporte"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "よくある質問 (FAQ)",
+                "en": "Frequently Asked Questions",
+                "es": "Preguntas Frecuentes"
+              },
+              "page": "faqs"
+            },
+            {
+              "label": {
+                "ja": "運営に問い合わせ ↗",
+                "en": "Contact Team ↗",
+                "es": "Contacto con el equipo ↗"
+              },
+              "url": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": {
+            "ja": "その他",
+            "en": "More",
+            "es": "Más"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "地域と言語を選択",
+                "en": "Select Region & Language",
+                "es": "Elegir Región e Idioma"
+              },
+              "action": "openLocaleSelector()"
+            },
+            {
+              "label": {
+                "ja": "GitHub ↗",
+                "en": "GitHub ↗",
+                "es": "GitHub ↗"
+              },
+              "url": "https://github.com"
+            }
+          ]
+        },
+        {
+          "title": {
+            "ja": "規約とポリシー",
+            "en": "Terms & Policies",
+            "es": "Términos y políticas"
+          },
+          "links": [
+            {
+              "label": {
+                "ja": "コミュニティガイドライン",
+                "en": "Community Guidelines",
+                "es": "Normas de la comunidad"
+              },
+              "page": "faqs"
+            },
+            {
+              "label": {
+                "ja": "プライバシーポリシー",
+                "en": "Privacy Policy",
+                "es": "Política de privacidad"
+              },
+              "page": "faqs"
+            },
+            {
+              "label": {
+                "ja": "利用規約",
+                "en": "Terms of Service",
+                "es": "Términos de servicio"
+              },
+              "page": "faqs"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "socials": [
+    {
+      "name": "WhatsApp",
+      "icon": "ri-whatsapp-line",
+      "url": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo"
+    },
+    {
+      "name": "YouTube",
+      "icon": "ri-youtube-line",
+      "url": "https://www.youtube.com/@devs-latam"
+    },
+    {
+      "name": "GitHub",
+      "icon": "ri-github-line",
+      "url": "https://github.com"
+    }
+  ],
+  "copyright": {
+    "ja": "© 2026 World Wide Dev's 日本. 全著作権所有。",
+    "en": "© 2026 World Wide Dev's Japan. All rights reserved.",
+    "es": "© 2026 World Wide Dev's Japón. Todos los derechos reservados."
+  }
+}

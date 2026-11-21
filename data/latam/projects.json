@@ -1,0 +1,99 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web.",
+    "visible": false,
+    "logo": "/img/logo.enc",
+    "nombre": {
+      "es": "Proyecto de Ejemplo (Plantilla)",
+      "en": "Example Project (Template)",
+      "jp": "プロジェクトの例 (テンプレート)"
+    },
+    "descripcion": {
+      "es": "Descripción de ejemplo del proyecto de la comunidad.",
+      "en": "Example description of the community project.",
+      "jp": "コミュニティプロジェクトの例の説明。"
+    },
+    "website": "https://worldwidedevs.com",
+    "autor": "John Doe",
+    "video": "",
+    "imagenes": [
+      "/img/projects/humbix_1.jpg"
+    ]
+  },
+  {
+    "id": "humbix",
+    "visible": true,
+    "logo": "https://cdn.worldwidedevs.org/logos/humbix-com.svg",
+    "nombre": {
+      "es": "Humbix",
+      "en": "Humbix",
+      "jp": "Humbix"
+    },
+    "titular": {
+      "es": "Plataforma de trabajo modular para startups y proyectos digitales.",
+      "en": "Modular workspace platform for startups and digital projects."
+    },
+    "descripcion": {
+      "es": "Humbix es una plataforma de trabajo modular diseñada para facilitar la creación, gestión y crecimiento de startups y proyectos digitales.<br><br>En lugar de depender de múltiples plataformas y herramientas dispersas, Humbix reúne diferentes capacidades en un espacio que puedes configurar y adaptar a tu propia forma de trabajar. Puedes utilizar las herramientas integradas, combinar diferentes módulos según las necesidades de tu proyecto e incluso incorporar tus propias herramientas.",
+      "en": "Humbix is a modular workspace platform designed to facilitate the creation, management, and growth of startups and digital projects.<br><br>Instead of relying on multiple scattered platforms and tools, Humbix brings different capabilities together in one space that you can configure and adapt to your own way of working. You can use built-in tools, combine different modules based on your project needs, and even integrate your own tools."
+    },
+    "website": "https://humbix.com",
+    "fecha": "2 oct 2026",
+    "video": "",
+    "imagenes": []
+  },
+  {
+    "id": "vixual",
+    "visible": true,
+    "logo": "https://cdn.worldwidedevs.org/logos/vixual-movie-com.svg",
+    "nombre": {
+      "es": "Vixual",
+      "en": "Vixual",
+      "jp": "Vixual"
+    },
+    "titular": {
+      "es": "Cine virtual inmersivo con experiencias mixtas en VR, AR y XR.",
+      "en": "Immersive virtual cinema with mixed reality in VR, AR, and XR."
+    },
+    "descripcion": {
+      "es": "Vixual es una plataforma de streaming social e inmersiva que exhibe películas en salas de cine virtuales con experiencias de realidad mixta en VR, AR y XR. Su esencia es compartir: inspira, entretiene y desafía las expectativas del público global mediante una experiencia cinematográfica colectiva y envolvente.",
+      "en": "Vixual is a social and immersive streaming platform that exhibits movies in virtual cinemas with mixed reality experiences in VR, AR and XR. Its essence is sharing: it inspires, entertains and challenges the expectations of global audiences through a collective and immersive cinematic experience."
+    },
+    "website": "https://vixualmovie.com",
+    "fecha": "28 sept 2026",
+    "video": "https://www.youtube.com/watch?v=PRJ7dK_kdPI",
+    "imagenes": [
+      "https://cdn.worldwidedevs.org/previews/vixual-movie-com-pv-1.webp",
+      "https://cdn.worldwidedevs.org/previews/vixual-movie-com-pv-2.webp",
+      "https://cdn.worldwidedevs.org/previews/vixual-movie-com-pv-3.webp",
+      "https://cdn.worldwidedevs.org/previews/vixual-movie-com-pv-4.webp",
+      "https://cdn.worldwidedevs.org/previews/vixual-movie-com-pv-5.webp",
+      "https://cdn.worldwidedevs.org/previews/vixual-movie-com-pv-6.webp",
+      "https://cdn.worldwidedevs.org/previews/vixual-movie-com-pv-7.webp",
+      "https://cdn.worldwidedevs.org/previews/vixual-movie-com-pv-8.webp"
+    ]
+  },
+  {
+    "id": "vortex-radio-24",
+    "visible": true,
+    "logo": "https://cdn.worldwidedevs.org/logos/vortex-radio-24-com.svg",
+    "nombre": {
+      "es": "Vortex Radio 24",
+      "en": "Vortex Radio 24",
+      "jp": "Vortex Radio 24"
+    },
+    "titular": {
+      "es": "Radio automatizada con IA que combina actualidad y divulgación.",
+      "en": "AI-automated radio combining current affairs and outreach."
+    },
+    "descripcion": {
+      "es": "Vortex Radio 24 es una radio automatizada mediante inteligencia artificial que combina actualidad y divulgación en español e inglés.<br><br>El proyecto busca reducir el coste y la complejidad de producir contenidos para una radio mediante la automatización de toda la cadena de producción: selección de temas, recopilación de información, redacción y generación de contenidos, producción y locución de audio, emisión, publicación y distribución. Todo el proceso se ejecuta de forma automática y desatendida.",
+      "en": "Vortex Radio 24 is an AI-automated radio station combining current affairs and outreach in Spanish and English.<br><br>The project aims to reduce the cost and complexity of radio content production by automating the entire production chain: topic selection, information gathering, content drafting and generation, audio production and voice-over, broadcasting, publishing, and distribution. The entire process runs automatically and unattended."
+    },
+    "website": "https://vortexradio24.com",
+    "autor": "Galileo Data Systems SL",
+    "fecha": "25 sept 2026",
+    "video": "",
+    "imagenes": []
+  }
+]

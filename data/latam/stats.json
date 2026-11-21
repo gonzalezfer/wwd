@@ -1,0 +1,26 @@
+[
+  {
+    "valor": "1000+",
+    "etiqueta": {
+      "es": "Miembros Activos",
+      "en": "Active Members",
+      "pt": "Membros Ativos"
+    }
+  },
+  {
+    "valor": "24",
+    "etiqueta": {
+      "es": "Grupos de WhatsApp",
+      "en": "WhatsApp Groups",
+      "pt": "Grupos de WhatsApp"
+    }
+  },
+  {
+    "valor": "2",
+    "etiqueta": {
+      "es": "Eventos Programados",
+      "en": "Scheduled Events",
+      "pt": "Eventos Programados"
+    }
+  }
+]

@@ -1,0 +1,376 @@
+{
+  "brand": {
+    "name": "World Wide Dev's",
+    "logoText": "W",
+    "description": {
+      "es": "Comunidad abierta de programación y tecnología en Latinoamérica. Aprende, comparte e impulsa tu camino en el desarrollo de software.",
+      "en": "Open programming and tech community in Latin America. Learn, share, and accelerate your software development journey.",
+      "pt": "Comunidade aberta de programação e tecnologia na América Latina. Aprenda, compartilhe e impulsione sua jornada no desenvolvimento de software."
+    }
+  },
+  "columnGroups": [
+    {
+      "sections": [
+        {
+          "title": {
+            "es": "Comunidad",
+            "en": "Community",
+            "pt": "Comunidade"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Presentación",
+                "en": "About",
+                "pt": "Apresentação"
+              },
+              "page": "presentacion"
+            },
+            {
+              "label": {
+                "es": "Grupos temáticos",
+                "en": "Thematic Groups",
+                "pt": "Grupos temáticos"
+              },
+              "page": "grupos"
+            },
+            {
+              "label": {
+                "es": "Eventos y talleres",
+                "en": "Events & Workshops",
+                "pt": "Eventos e oficinas"
+              },
+              "page": "eventos"
+            },
+            {
+              "label": {
+                "es": "Networking & Pitches",
+                "en": "Networking & Pitches",
+                "pt": "Networking & Pitches"
+              },
+              "page": "networking"
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Participación",
+            "en": "Involvement",
+            "pt": "Participação"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Inscribir proyecto ↗",
+                "en": "Submit project ↗",
+                "pt": "Inscrever projeto ↗"
+              },
+              "url": "https://forms.gle/id2HoKcyWn6eNvcG7"
+            },
+            {
+              "label": {
+                "es": "Proponer evento ↗",
+                "en": "Propose event ↗",
+                "pt": "Propor evento ↗"
+              },
+              "url": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo"
+            },
+            {
+              "label": {
+                "es": "Patrocinios y aliados",
+                "en": "Sponsors & Partners",
+                "pt": "Patrocínios e parceiros"
+              },
+              "page": "networking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": {
+            "es": "Proyectos",
+            "en": "Projects",
+            "pt": "Projetos"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Galería de proyectos",
+                "en": "Project Showcase",
+                "pt": "Galeria de projetos"
+              },
+              "page": "projects"
+            },
+            {
+              "label": {
+                "es": "Humbix ↗",
+                "en": "Humbix ↗",
+                "pt": "Humbix ↗"
+              },
+              "url": "https://humbix.com"
+            },
+            {
+              "label": {
+                "es": "Vixual",
+                "en": "Vixual",
+                "pt": "Vixual"
+              },
+              "page": "projects",
+              "projectId": "vixual"
+            },
+            {
+              "label": {
+                "es": "Vortex Radio 24",
+                "en": "Vortex Radio 24",
+                "pt": "Vortex Radio 24"
+              },
+              "page": "projects",
+              "projectId": "vortex-radio-24"
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Ecosistema",
+            "en": "Ecosystem",
+            "pt": "Ecossistema"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Byte Mini (AI Assistant)",
+                "en": "Byte Mini (AI Assistant)",
+                "pt": "Byte Mini (AI Assistant)"
+              },
+              "action": "toggleAIChatModal()"
+            },
+            {
+              "label": {
+                "es": "Código de Conducta",
+                "en": "Code of Conduct",
+                "pt": "Código de Conduta"
+              },
+              "page": "faqs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": {
+            "es": "Canales Oficiales",
+            "en": "Official Channels",
+            "pt": "Canais Oficiais"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "WhatsApp Principal ↗",
+                "en": "Main WhatsApp ↗",
+                "pt": "WhatsApp Principal ↗"
+              },
+              "url": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo"
+            },
+            {
+              "label": {
+                "es": "Canal de YouTube ↗",
+                "en": "YouTube Channel ↗",
+                "pt": "Canal do YouTube ↗"
+              },
+              "url": "https://www.youtube.com/@devs-latam"
+            },
+            {
+              "label": {
+                "es": "Página de Facebook ↗",
+                "en": "Facebook Page ↗",
+                "pt": "Página do Facebook ↗"
+              },
+              "url": "https://www.facebook.com/profile.php?id=61574892055228"
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Recursos",
+            "en": "Resources",
+            "pt": "Recursos"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Avisos de la comunidad",
+                "en": "Community Announcements",
+                "pt": "Avisos da comunidade"
+              },
+              "page": "grupos"
+            },
+            {
+              "label": {
+                "es": "Off Topic & Networking",
+                "en": "Off Topic & Networking",
+                "pt": "Off Topic & Networking"
+              },
+              "page": "grupos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": {
+            "es": "Equipo",
+            "en": "Team",
+            "pt": "Equipe"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Administradores",
+                "en": "Administrators",
+                "pt": "Administradores"
+              },
+              "page": "equipo"
+            },
+            {
+              "label": {
+                "es": "Colaboradores",
+                "en": "Collaborators",
+                "pt": "Colaboradores"
+              },
+              "page": "equipo"
+            },
+            {
+              "label": {
+                "es": "Postularse como admin",
+                "en": "Apply as admin",
+                "pt": "Candidatar-se a admin"
+              },
+              "page": "faqs"
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Soporte",
+            "en": "Support",
+            "pt": "Suporte"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Preguntas Frecuentes",
+                "en": "Frequently Asked Questions",
+                "pt": "Perguntas Frequentes"
+              },
+              "page": "faqs"
+            },
+            {
+              "label": {
+                "es": "Contacto con el equipo ↗",
+                "en": "Contact the team ↗",
+                "pt": "Contato com a equipe ↗"
+              },
+              "url": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": {
+            "es": "Más",
+            "en": "More",
+            "pt": "Mais"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Regiones disponibles",
+                "en": "Available Regions",
+                "pt": "Regiões disponíveis"
+              },
+              "action": "openLocaleSelector()"
+            },
+            {
+              "label": {
+                "es": "GitHub Community ↗",
+                "en": "GitHub Community ↗",
+                "pt": "GitHub Community ↗"
+              },
+              "url": "https://github.com"
+            }
+          ]
+        },
+        {
+          "title": {
+            "es": "Términos y políticas",
+            "en": "Terms & Policies",
+            "pt": "Termos e políticas"
+          },
+          "links": [
+            {
+              "label": {
+                "es": "Normas de convivencia",
+                "en": "Community Guidelines",
+                "pt": "Diretrizes da comunidade"
+              },
+              "page": "faqs"
+            },
+            {
+              "label": {
+                "es": "Política de privacidad",
+                "en": "Privacy Policy",
+                "pt": "Política de privacidade"
+              },
+              "page": "faqs"
+            },
+            {
+              "label": {
+                "es": "Términos de uso",
+                "en": "Terms of Use",
+                "pt": "Termos de uso"
+              },
+              "page": "faqs"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "socials": [
+    {
+      "name": "WhatsApp",
+      "icon": "ri-whatsapp-line",
+      "url": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo"
+    },
+    {
+      "name": "YouTube",
+      "icon": "ri-youtube-line",
+      "url": "https://www.youtube.com/@devs-latam"
+    },
+    {
+      "name": "Facebook",
+      "icon": "ri-facebook-circle-line",
+      "url": "https://www.facebook.com/profile.php?id=61574892055228"
+    },
+    {
+      "name": "GitHub",
+      "icon": "ri-github-line",
+      "url": "https://github.com"
+    }
+  ],
+  "copyright": {
+    "es": "© 2026 World Wide Dev's. Todos los derechos reservados.",
+    "en": "© 2026 World Wide Dev's. All rights reserved.",
+    "pt": "© 2026 World Wide Dev's. Todos os direitos reservados."
+  }
+}

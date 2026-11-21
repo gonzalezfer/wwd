@@ -1,0 +1,52 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como evento activo.",
+    "visible": false,
+    "titulo": {
+      "es": "Nombre del Evento de Ejemplo (Plantilla)",
+      "en": "Example Event Title (Template)",
+      "pt": "Título do Evento de Exemplo (Modelo)"
+    },
+    "descripcion": {
+      "es": "Descripción detallada del evento, qué se aprenderá o qué actividades se realizarán.",
+      "en": "Detailed description of the event, what will be learned or activities included.",
+      "pt": "Descrição detalhada do evento, o que será abordado ou atividades realizadas."
+    },
+    "fecha_inicio": "2026-12-31T18:00:00",
+    "imagen": "/img/networking_ad.png",
+    "color": "#1a1a2e",
+    "link": "https://chat.whatsapp.com/ejemplo-evento"
+  },
+  {
+    "titulo": {
+      "es": "Networking Sesión #2",
+      "en": "Networking Session #2",
+      "pt": "Sessão de Networking #2"
+    },
+    "descripcion": {
+      "es": "Presenta tu proyecto ante la comunidad, practica tu pitch y recibe feedback constructivo de desarrolladores experimentados de Latinoamérica.",
+      "en": "Present your project to the community, practice your pitch, and get constructive feedback from experienced LATAM developers.",
+      "pt": "Apresente seu projeto para a comunidade, pratique seu pitch e receba feedback construtivo de desenvolvedores experientes da América Latina."
+    },
+    "fecha_inicio": "2026-09-13T18:00:00",
+    "imagen": "/img/networking_ad.png",
+    "color": "#010023",
+    "link": "https://chat.whatsapp.com/CznayZtpbo47GnOlxiBvPS"
+  },
+  {
+    "titulo": {
+      "es": "3° Aniversario",
+      "en": "3rd Anniversary",
+      "pt": "3º Aniversário"
+    },
+    "descripcion": {
+      "es": "¡Celebramos 3 años de comunidad! Únete a este evento especial lleno de charlas, dinámicas, premios y sorpresas para todos los desarrolladores.",
+      "en": "Celebrating 3 years of community! Join this special event filled with talks, activities, prizes, and surprises for all developers.",
+      "pt": "Comemoramos 3 anos de comunidade! Junte-se a este evento especial repleto de palestras, dinâmicas, prêmios e surpresas para todos os desenvolvedores."
+    },
+    "fecha_inicio": "2027-01-03T06:00:00",
+    "imagen": "/img/3_aniversario_ad.png",
+    "color": "#033246",
+    "link": "https://chat.whatsapp.com/CznayZtpbo47GnOlxiBvPS"
+  }
+]

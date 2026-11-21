@@ -1,0 +1,102 @@
+[
+  {
+    "tipo": "imagen",
+    "archivo": "/img/networking_ad.png",
+    "titulo": {
+      "es": "Networking Sesión #2<br>¡Inscríbete hoy!",
+      "en": "Networking Session #2<br>Sign up today!",
+      "pt": "Sessão de Networking #2<br>Inscreva-se hoje!"
+    },
+    "descripcion": {
+      "es": "Presenta tu proyecto ante la comunidad, practica tu pitch y recibe feedback constructivo de desarrolladores experimentados de Latinoamérica.",
+      "en": "Present your project to the community, practice your pitch, and get constructive feedback from experienced LATAM developers.",
+      "pt": "Apresente seu projeto para a comunidade, pratique seu pitch e receba feedback construtivo de desenvolvedores experientes da América Latina."
+    },
+    "botones": [
+      {
+        "texto": {
+          "es": "Registrar mi proyecto",
+          "en": "Register my project",
+          "pt": "Cadastrar meu projeto"
+        },
+        "link": "https://forms.gle/id2HoKcyWn6eNvcG7",
+        "externo": true
+      }
+    ]
+  },
+  {
+    "tipo": "imagen",
+    "archivo": "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "titulo": {
+      "es": "Domina el Código.<br>Aprende en Comunidad.",
+      "en": "Master the Code.<br>Learn in Community.",
+      "pt": "Domine o Código.<br>Aprenda em Comunidade."
+    },
+    "descripcion": {
+      "es": "Únete a World Wide Dev's, la comunidad colaborativa de programación y tecnología en Latinoamérica. Comparte conocimientos, accede a recursos gratuitos y conecta con desarrolladores.",
+      "en": "Join World Wide Dev's, the collaborative programming and tech community in LATAM. Share knowledge, access free resources, and connect with developers.",
+      "pt": "Junte-se ao World Wide Dev's, a comunidade colaborativa de programação e tecnologia da América Latina. Compartilhe conhecimento, acesse recursos gratuitos e conecte-se com desenvolvedores."
+    },
+    "botones": [
+      {
+        "texto": {
+          "es": "Unirse a la comunidad",
+          "en": "Join the community",
+          "pt": "Juntar-se à comunidade"
+        },
+        "link": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo",
+        "externo": true
+      }
+    ]
+  },
+  {
+    "tipo": "imagen",
+    "archivo": "https://images.pexels.com/photos/27651087/pexels-photo-27651087.jpeg",
+    "titulo": {
+      "es": "Espacio Off Topic.<br>Relájate y Comparte.",
+      "en": "Off Topic Lounge.<br>Relax and Share.",
+      "pt": "Espaço Off Topic.<br>Relaxe e Compartilhe."
+    },
+    "descripcion": {
+      "es": "Un espacio distendido para conversar de temas variados, memes, hobbies, videojuegos y cultura tech con los miembros de la comunidad.",
+      "en": "A relaxed space to chat about various topics, memes, hobbies, gaming, and tech culture with community members.",
+      "pt": "Um espaço descontraído para conversar sobre assuntos variados, memes, hobbies, games e cultura tech com os membros da comunidade."
+    },
+    "botones": [
+      {
+        "texto": {
+          "es": "Unirme a Off Topic",
+          "en": "Join Off Topic",
+          "pt": "Entrar no Off Topic"
+        },
+        "link": "https://chat.whatsapp.com/GGVveaOckI3Dwcx8m7MD3S",
+        "externo": true
+      }
+    ]
+  },
+  {
+    "tipo": "imagen",
+    "archivo": "https://images.pexels.com/photos/8134019/pexels-photo-8134019.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "titulo": {
+      "es": "Conéctate con Líderes<br>y Desarrolladores LATAM.",
+      "en": "Connect with Leaders<br>and LATAM Developers.",
+      "pt": "Conecte-se com Líderes<br>e Desenvolvedores LATAM."
+    },
+    "descripcion": {
+      "es": "Participa en eventos exclusivos, mentorías, talleres prácticos y proyectos colaborativos para impulsar tu carrera en el desarrollo de software.",
+      "en": "Participate in exclusive events, mentorships, hands-on workshops, and collaborative projects to boost your software development career.",
+      "pt": "Participe de eventos exclusivos, mentorias, workshops práticos e projetos colaborativos para impulsionar sua carreira no desenvolvimento de software."
+    },
+    "botones": [
+      {
+        "texto": {
+          "es": "Próximos Eventos",
+          "en": "Upcoming Events",
+          "pt": "Próximos Eventos"
+        },
+        "link": "#comunidad",
+        "tab": "eventos"
+      }
+    ]
+  }
+]

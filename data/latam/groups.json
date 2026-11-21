@@ -1,0 +1,335 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como grupo activo.",
+    "visible": false,
+    "titulo": {
+      "es": "Nombre del Grupo de Ejemplo (Plantilla)",
+      "en": "Example Group Name (Template)",
+      "pt": "Nome do Grupo de Exemplo (Modelo)"
+    },
+    "descripcion": {
+      "es": "Descripción de ejemplo explicando el propósito del grupo y los temas que se tratan.",
+      "en": "Example description explaining the purpose of the group and tech topics discussed.",
+      "pt": "Descrição de exemplo explicando o propósito do grupo e tópicos abordados."
+    },
+    "idiomas": [
+      "es",
+      "en"
+    ],
+    "link": "https://chat.whatsapp.com/ejemplo-enlace-aqui",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Avisos",
+    "descripcion": {
+      "es": "Canal oficial para anuncios importantes, noticias y comunicados de la comunidad.",
+      "en": "Official channel for important announcements, news, and community updates.",
+      "pt": "Canal oficial para anúncios importantes, notícias e comunicados da comunidade."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo",
+    "imagen": "/img/g0.png"
+  },
+  {
+    "titulo": "Programación",
+    "descripcion": {
+      "es": "Debate general, dudas de código, buenas prácticas y conceptos fundamentales.",
+      "en": "General discussion, code questions, best practices, and core concepts.",
+      "pt": "Discussão geral, dúvidas de código, boas práticas e conceitos fundamentais."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/Ju1sMX4JsmMFLhrFuzwCuk",
+    "imagen": "/img/g1.png"
+  },
+  {
+    "titulo": "Networking",
+    "descripcion": {
+      "es": "Conéctate con otros devs, presenta tus proyectos los viernes y crea alianzas.",
+      "en": "Connect with other devs, present your projects on Fridays, and build partnerships.",
+      "pt": "Conecte-se com outros devs, apresente seus projetos nas sextas e crie parcerias."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/KCe6riJeGZk2iSs9W3YAVZ",
+    "imagen": "/img/networking_ad.png"
+  },
+  {
+    "titulo": "HTML, CSS e JS",
+    "descripcion": {
+      "es": "Desarrollo frontend, maquetación moderna, JavaScript y frameworks en portugués.",
+      "en": "Frontend development, modern styling, JavaScript, and frameworks in Portuguese.",
+      "pt": "Desenvolvimento frontend, estilização moderna, JavaScript e frameworks em português."
+    },
+    "idiomas": [
+      "pt"
+    ],
+    "link": "https://chat.whatsapp.com/KIGYbtNE9zW2buzZ8Rm8gc",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "GNU/LINUX",
+    "descripcion": {
+      "es": "Distribuciones Linux, terminal, scripting Bash, administración de servidores y kernel.",
+      "en": "Linux distributions, terminal, Bash scripting, server administration, and kernel.",
+      "pt": "Distribuições Linux, terminal, scripts Bash, administração de servidores e kernel."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/JdpdZT8I8ouBrbG73TXXbA",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Off Topic",
+    "descripcion": {
+      "es": "Espacio distendido para conversar de temas variados, hobbies y cultura tech.",
+      "en": "Relaxed space to chat about various topics, hobbies, and tech culture.",
+      "pt": "Espaço descontraído para conversar sobre assuntos variados, hobbies e cultura tech."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/CalLbcgyDai1R6HYXdKdky",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Inglés básico",
+    "descripcion": {
+      "es": "Aprende y practica inglés desde cero con apoyo y explicaciones en español.",
+      "en": "Learn and practice English from scratch with support and explanations in Spanish.",
+      "pt": "Aprenda e pratique inglês do zero com apoio e explicações em espanhol."
+    },
+    "idiomas": [
+      "es",
+      "en"
+    ],
+    "link": "https://chat.whatsapp.com/E5PR1vt0P4wIIMr7ccNsFz",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Club de lectura",
+    "descripcion": {
+      "es": "Lectura compartida de libros técnicos, arquitectura de software y desarrollo.",
+      "en": "Shared reading of tech books, software architecture, and development.",
+      "pt": "Leitura compartilhada de livros técnicos, arquitetura de software e desenvolvimento."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/F1lPK1jKNdcE1ARMjSKhkM",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Desarrollo de Videojuegos",
+    "descripcion": {
+      "es": "Creación de videojuegos con Unity, Unreal Engine, Godot, diseño 2D/3D y shaders.",
+      "en": "Game creation with Unity, Unreal Engine, Godot, 2D/3D design, and shaders.",
+      "pt": "Criação de jogos com Unity, Unreal Engine, Godot, design 2D/3D e shaders."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/DCWa5QHyBbc1Kq2lBFDxCg",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Bases de datos",
+    "descripcion": {
+      "es": "SQL, PostgreSQL, MySQL, NoSQL, MongoDB, Redis, diseño y optimización de datos.",
+      "en": "SQL, PostgreSQL, MySQL, NoSQL, MongoDB, Redis, database design, and optimization.",
+      "pt": "SQL, PostgreSQL, MySQL, NoSQL, MongoDB, Redis, modelagem e otimização de dados."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/GWnIDEcrmie4MpfYFjBgcS",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "C/C++",
+    "descripcion": {
+      "es": "Programación de bajo nivel, alto rendimiento, sistemas embebidos y algoritmos.",
+      "en": "Low-level programming, high performance, embedded systems, and algorithms.",
+      "pt": "Programação de baixo nível, alta performance, sistemas embarcados e algoritmos."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/DPxpnzRBAHhAmR9dEoIhx2",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "English Community",
+    "descripcion": {
+      "es": "Practica tu inglés técnico, prepárate para entrevistas internacionales y chatea solo en inglés.",
+      "en": "Practice your tech English, prepare for international job interviews, and chat in English only.",
+      "pt": "Pratique seu inglês técnico, prepare-se para entrevistas internacionais e converse apenas em inglês."
+    },
+    "idiomas": [
+      "en"
+    ],
+    "link": "https://chat.whatsapp.com/K1jd4Z8yuoaCYwmkv2UzgA",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Python",
+    "descripcion": {
+      "es": "Desarrollo con Python: scripts, automatización, Django, FastAPI y análisis de datos.",
+      "en": "Python development: scripts, automation, Django, FastAPI, and data analysis.",
+      "pt": "Desenvolvimento com Python: scripts, automação, Django, FastAPI e análise de dados."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/LKU4nIreD7JBQHDc4Fr0l6",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Backend",
+    "descripcion": {
+      "es": "Arquitectura de APIs, microservicios, seguridad, lógica de negocio y escalabilidad.",
+      "en": "API architecture, microservices, security, business logic, and scalability.",
+      "pt": "Arquitetura de APIs, microsserviços, segurança, regras de negócio e escalabilidade."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/Jewyl1pdCqRFHxD1A7VPR2",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Java",
+    "descripcion": {
+      "es": "Ecosistema JVM, Spring Boot, microservicios empresariales y desarrollo Android.",
+      "en": "JVM ecosystem, Spring Boot, enterprise microservices, and Android development.",
+      "pt": "Ecossistema JVM, Spring Boot, microsserviços empresariais e desenvolvimento Android."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/HkFgobcdKMJ9hwEYD4QAIg",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Aprendizaje automático y robótica",
+    "descripcion": {
+      "es": "Inteligencia artificial, modelos de Machine Learning, Deep Learning y robótica.",
+      "en": "Artificial intelligence, Machine Learning models, Deep Learning, and robotics.",
+      "pt": "Inteligência artificial, modelos de Machine Learning, Deep Learning e robótica."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/CHsfx8UbbPv4uf6YJn3jYx",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Backend (PT)",
+    "descripcion": {
+      "es": "Comunidad de desarrollo backend en portugués. Arquitectura, APIs y buenas prácticas.",
+      "en": "Backend development community in Portuguese. Architecture, APIs, and best practices.",
+      "pt": "Comunidade de desenvolvimento backend em português. Arquitetura, APIs e boas práticas."
+    },
+    "idiomas": [
+      "pt"
+    ],
+    "link": "https://chat.whatsapp.com/I1sgdkvkafTAleJt1jtsaI",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Windows & Soporte",
+    "descripcion": {
+      "es": "Trucos, herramientas, optimización de Windows, PowerShell y soporte del sistema.",
+      "en": "Tips, tools, Windows optimization, PowerShell, and system support.",
+      "pt": "Dicas, ferramentas, otimização do Windows, PowerShell e suporte do sistema."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/IGecWPsqmOBIm4mcGbYmiW",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Portafolios",
+    "descripcion": {
+      "es": "Comparte tu portafolio web o CV y recibe retroalimentación para destacar.",
+      "en": "Share your portfolio or resume and get constructive feedback to stand out.",
+      "pt": "Compartilhe seu portfólio ou currículo e receba feedback para se destacar."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/LjCIZlMgiWYD80yl9g0KMi",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Eventos",
+    "descripcion": {
+      "es": "Sesiones en vivo, talleres prácticos, charlas y actividades de la comunidad.",
+      "en": "Live sessions, hands-on workshops, talks, and community activities.",
+      "pt": "Sessões ao vivo, workshops práticos, palestras e atividades da comunidade."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/Fd1eNcIxgYb3uZOKdzOHQE",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Ofertas de empleo",
+    "descripcion": {
+      "es": "Vacantes laborales, oportunidades freelance y consejos para el mercado tech.",
+      "en": "Job openings, freelance opportunities, and tips for the tech job market.",
+      "pt": "Vagas de emprego, oportunidades freelance e dicas para o mercado de tecnologia."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/IIA5n8UsTkn1mf8hrDPjFo",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Ciberseguridad",
+    "descripcion": {
+      "es": "Seguridad informática, hacking ético, pentesting, análisis forense y protección web.",
+      "en": "InfoSec, ethical hacking, pentesting, forensics, and web protection.",
+      "pt": "Segurança da informação, ethical hacking, pentest, computação forense e proteção web."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/C2mxfv7iH0BA4lUOhNgz61",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": ".NET",
+    "descripcion": {
+      "es": "Desarrollo con C#, .NET Core, ASP.NET, Azure y aplicaciones de escritorio.",
+      "en": "Development with C#, .NET Core, ASP.NET, Azure, and desktop apps.",
+      "pt": "Desenvolvimento com C#, .NET Core, ASP.NET, Azure e aplicativos desktop."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/EpoeZLER82A5OlTFFimavZ",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  },
+  {
+    "titulo": "Recursos gratis",
+    "descripcion": {
+      "es": "Libros, cursos, repositorios, guías y herramientas gratuitas para desarrolladores.",
+      "en": "Books, courses, repositories, guides, and free tools for developers.",
+      "pt": "Livros, cursos, repositórios, guias e ferramentas gratuitas para desenvolvedores."
+    },
+    "idiomas": [
+      "es"
+    ],
+    "link": "https://chat.whatsapp.com/EQW6Sh4uZP62hzVDowNQzg",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2352/2352167.png"
+  }
+]

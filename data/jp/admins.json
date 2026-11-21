@@ -1,0 +1,138 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como admin activo.",
+    "visible": false,
+    "nombre": "管理者名の例 (テンプレート)",
+    "descripcion": {
+      "ja": "専門分野または役職 (例: フルスタック開発者)",
+      "en": "Role or specialty (e.g. Fullstack Developer)",
+      "es": "Rol o especialidad (ej. Fullstack Developer)"
+    },
+    "foto": "/img/default_profile.png",
+    "banner": "/img/default_banner.png",
+    "roles": {
+      "ja": [
+        "モデレーター"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "es": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "ja": [
+        "プログラミング"
+      ],
+      "en": [
+        "Programming Discussion"
+      ],
+      "es": [
+        "Programación"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/ejemplo"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://linkedin.com/in/ejemplo"
+      }
+    ]
+  },
+  {
+    "nombre": "Fernando González",
+    "descripcion": {
+      "ja": "フロントエンド開発者",
+      "en": "Frontend Developer",
+      "es": "Frontend Developer"
+    },
+    "foto": "/img/default_profile.png",
+    "banner": "https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif",
+    "roles": {
+      "ja": [
+        "創設者"
+      ],
+      "en": [
+        "Founder"
+      ],
+      "es": [
+        "Fundador"
+      ],
+      "pt": [
+        "Fundador"
+      ]
+    },
+    "grupos": {
+      "ja": [
+        "プログラミング"
+      ],
+      "en": [
+        "Programming Discussion"
+      ],
+      "es": [
+        "Programación"
+      ],
+      "pt": [
+        "Programação"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/gonzalezfer/"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://www.linkedin.com/in/gonzalez-fer"
+      }
+    ]
+  },
+  {
+    "nombre": "Luis Medina",
+    "descripcion": {
+      "ja": "フロントエンド開発者",
+      "en": "Frontend Developer",
+      "es": "Frontend Developer"
+    },
+    "foto": "/img/luis_medina.jpeg",
+    "banner": "/img/luis_medina_banner.gif",
+    "roles": {
+      "ja": [
+        "モデレーター"
+      ],
+      "en": [
+        "Moderator"
+      ],
+      "es": [
+        "Moderador"
+      ],
+      "pt": [
+        "Moderador"
+      ]
+    },
+    "grupos": {
+      "ja": [
+        "プログラミング"
+      ],
+      "en": [
+        "Programming Discussion"
+      ],
+      "es": [
+        "Programación"
+      ],
+      "pt": [
+        "Programação"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "linkedin",
+        "url": "https://www.linkedin.com/in/luis-medina-259805244/"
+      }
+    ]
+  }
+]

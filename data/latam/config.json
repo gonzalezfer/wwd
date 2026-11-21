@@ -1,0 +1,192 @@
+{
+  "sections": [
+    {
+      "id": "hero-slider",
+      "type": "hero-slider",
+      "dataFile": "carousel.json"
+    },
+    {
+      "id": "presentacion",
+      "type": "presentation",
+      "title": {
+        "es": "El punto de encuentro para desarrolladores en Latinoamérica",
+        "en": "The meeting point for developers in Latin America",
+        "pt": "O ponto de encontro para desenvolvedores na América Latina"
+      },
+      "subtitle": {
+        "es": "World Wide Dev's es un ecosistema colaborativo donde programadores, estudiantes y entusiastas comparten conocimientos.",
+        "en": "World Wide Dev's is a collaborative ecosystem where programmers, students, and enthusiasts share knowledge.",
+        "pt": "World Wide Dev's é um ecossistema colaborativo onde programadores, estudantes e entusiastas compartilham conhecimento."
+      },
+      "dataFile": "",
+      "showInNav": true,
+      "navLabel": {
+        "es": "Presentación",
+        "en": "Presentation",
+        "pt": "Apresentação",
+        "ja": "プレゼンテーション"
+      },
+      "navAction": "switchPage('presentacion')"
+    },
+    {
+      "id": "stats",
+      "type": "stats-strip",
+      "dataFile": "stats.json"
+    },
+    {
+      "id": "content-grupos",
+      "type": "grupos-grid",
+      "dataFile": "groups.json",
+      "title": {
+        "es": "Grupos Especializados",
+        "en": "Specialized Groups",
+        "pt": "Grupos Especializados"
+      },
+      "subtitle": {
+        "es": "Salas temáticas de WhatsApp organizadas por tecnologías, áreas de estudio y desarrollo.",
+        "en": "Thematic WhatsApp rooms organized by technologies, study areas and development.",
+        "pt": "Grupos temáticos de WhatsApp organizados por tecnologias, áreas de estudo e desenvolvimento."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Grupos",
+        "en": "Groups",
+        "pt": "Grupos",
+        "ja": "グループ"
+      },
+      "navAction": "switchPage('grupos')"
+    },
+    {
+      "id": "content-proyectos",
+      "type": "proyectos-grid",
+      "dataFile": "projects.json",
+      "title": {
+        "es": "Proyectos",
+        "en": "Projects"
+      },
+      "subtitle": {
+        "es": "Proyectos creados y desarrollados por la comunidad.",
+        "en": "Projects created and developed by the community."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Proyectos",
+        "en": "Projects",
+        "pt": "Projetos",
+        "ja": "プロジェクト"
+      },
+      "navAction": "switchPage('projects')"
+    },
+    {
+      "id": "content-eventos",
+      "type": "eventos-carousel",
+      "dataFile": "events.json",
+      "title": {
+        "es": "Próximos Eventos",
+        "en": "Upcoming Events",
+        "pt": "Próximos Eventos"
+      },
+      "subtitle": {
+        "es": "Charlas técnicas, mentorías y talleres prácticos organizados por miembros y ponentes.",
+        "en": "Technical talks, mentorships and practical workshops organized by members and speakers.",
+        "pt": "Palestras técnicas, mentorias e workshops organizados por membros e palestrantes."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Eventos",
+        "en": "Events",
+        "pt": "Eventos",
+        "ja": "イベント"
+      },
+      "navAction": "switchPage('eventos')"
+    },
+    {
+      "id": "content-admins",
+      "type": "admins-roster",
+      "dataFile": "admins.json",
+      "title": {
+        "es": "Equipo Administrativo",
+        "en": "Administrative Team",
+        "pt": "Equipe Administrativa"
+      },
+      "subtitle": {
+        "es": "Desarrolladores y coordinadores encargados de moderar y guiar las actividades de la comunidad.",
+        "en": "Developers and coordinators in charge of moderating and guiding community activities.",
+        "pt": "Desenvolvedores e coordenadores responsáveis por moderar e guiar as atividades da comunidade."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Equipo",
+        "en": "Team",
+        "pt": "Equipe",
+        "ja": "チーム"
+      },
+      "navAction": "switchPage('equipo')"
+    },
+    {
+      "id": "content-colaboradores",
+      "type": "colaboradores-roster",
+      "dataFile": "collaborators.json",
+      "title": {
+        "es": "Colaboradores Destacados",
+        "en": "Featured Collaborators",
+        "pt": "Colaboradores em Destaque"
+      },
+      "subtitle": {
+        "es": "Miembros activos, curadores de contenido y donadores constantes de recursos de estudio.",
+        "en": "Active members, content curators and constant donors of study resources.",
+        "pt": "Membros ativos, curadores de conteúdo e doadores constantes de recursos de estudo."
+      }
+    },
+    {
+      "id": "content-faqs",
+      "type": "faqs-accordion",
+      "dataFile": "faqs.json",
+      "title": {
+        "es": "Preguntas Frecuentes",
+        "en": "Frequently Asked Questions",
+        "pt": "Perguntas Frequentes"
+      },
+      "subtitle": {
+        "es": "Respuestas a las preguntas más habituales sobre las normas, participación y accesos a la comunidad.",
+        "en": "Answers to the most common questions about rules, participation and community access.",
+        "pt": "Respostas às perguntas mais comuns sobre regras, participação e acesso à comunidade."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "FAQs",
+        "en": "FAQs",
+        "pt": "FAQs",
+        "ja": "よくある質問"
+      },
+      "navAction": "switchPage('faqs')"
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "dataFile": "footer.json"
+    },
+    {
+      "id": "content-networking",
+      "type": "networking-section",
+      "dataFile": "sponsors.json",
+      "title": {
+        "es": "Networking & Pitches",
+        "en": "Networking & Pitches",
+        "pt": "Networking & Pitches"
+      },
+      "subtitle": {
+        "es": "Presenta tu proyecto en vivo ante la comunidad, recibe retroalimentación constructiva y conecta con talento clave.",
+        "en": "Present your project live to the community, receive constructive feedback, and connect with key talent.",
+        "pt": "Apresente seu projeto ao vivo para a comunidade, receba feedback construtivo e conecte-se com talentos chave."
+      },
+      "showInNav": true,
+      "navLabel": {
+        "es": "Networking",
+        "en": "Networking",
+        "pt": "Networking"
+      },
+      "navAction": "switchPage('networking')"
+    }
+  ]
+}

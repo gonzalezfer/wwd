@@ -1,0 +1,19 @@
+{
+  "regions": [
+    {
+      "id": "latam",
+      "nombre": "Latinoamérica",
+      "idiomaPrincipal": "es",
+      "idiomasDisponibles": ["es", "en", "pt"],
+      "paises": ["MX", "CO", "AR", "CL", "PE", "BR", "UY", "CR", "GT", "EC", "VE", "BO", "PY", "HN", "SV", "NI", "PA", "DO", "CU", "PR"]
+    },
+    {
+      "id": "jp",
+      "nombre": "Japón",
+      "idiomaPrincipal": "ja",
+      "idiomasDisponibles": ["ja", "en"],
+      "paises": ["JP"]
+    }
+  ],
+  "defaultRegion": "latam"
+}

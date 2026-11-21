@@ -1,0 +1,62 @@
+[
+  {
+    "pregunta": {
+      "es": "¿Cómo puedo unirme a un grupo de WhatsApp?",
+      "en": "How can I join a WhatsApp group?",
+      "pt": "Como posso entrar em um grupo de WhatsApp?"
+    },
+    "respuesta": {
+      "es": "Simplemente ve a la sección 'Grupos', encuentra el grupo que te interesa y haz clic en él. Esto te redirigirá a WhatsApp.",
+      "en": "Simply go to the 'Groups' section, find the group you are interested in, and click on it. This will redirect you to WhatsApp.",
+      "pt": "Basta ir à seção 'Grupos', encontrar o grupo do seu interesse e clicar nele. Isso redirecionará você para o WhatsApp."
+    }
+  },
+  {
+    "pregunta": {
+      "es": "¿Tienen algún costo los grupos o los recursos?",
+      "en": "Do the groups or resources cost anything?",
+      "pt": "Os grupos ou recursos têm algum custo?"
+    },
+    "respuesta": {
+      "es": "No. Todo en la Comunidad DEVS es completamente gratuito. Nuestro objetivo es aprender y crecer juntos sin barreras.",
+      "en": "No. Everything in the DEVS Community is completely free. Our goal is to learn and grow together without barriers.",
+      "pt": "Não. Tudo na Comunidade DEVS é totalmente gratuito. Nosso objetivo é aprender e crescer juntos sem barreiras."
+    }
+  },
+  {
+    "pregunta": {
+      "es": "Incumplí una regla, ¿qué hago?",
+      "en": "I broke a rule, what should I do?",
+      "pt": "Descumpri uma regra, o que devo fazer?"
+    },
+    "respuesta": {
+      "es": "Si has sido advertido o expulsado por error, o si quieres apelar una decisión, por favor contacta a uno de los administradores (listados en la sección 'Administradores') por privado para discutir la situación de manera respetuosa. Te recomendamos leer nuestro Código de Conducta.",
+      "en": "If you have been warned or removed by mistake, or if you wish to appeal a decision, please contact one of the admins (listed in the 'Admins' section) privately to discuss the situation respectfully. We recommend reviewing our Code of Conduct.",
+      "pt": "Se você foi advertido ou removido por engano, ou se deseja recorrer de uma decisão, entre em contato com um dos administradores (listados na seção 'Administradores') no privado para conversar respeitosamente. Recomendamos ler nosso Código de Conduta."
+    }
+  },
+  {
+    "pregunta": {
+      "es": "¿Puedo sugerir un nuevo grupo?",
+      "en": "Can I suggest a new group?",
+      "pt": "Posso sugerir um novo grupo?"
+    },
+    "respuesta": {
+      "es": "¡Claro! La comunidad la construimos todos. Contacta a cualquier administrador con tu idea para un nuevo grupo de tecnología y lo evaluaremos.",
+      "en": "Sure! The community is built by all of us. Contact any admin with your idea for a new tech group and we will review it.",
+      "pt": "Com certeza! A comunidade é construída por todos nós. Entre em contato com qualquer administrador com sua ideia de um novo grupo de tecnologia e nós a avaliaremos."
+    }
+  },
+  {
+    "pregunta": {
+      "es": "¿Cómo puedo convertirme en administrador?",
+      "en": "How can I become an admin?",
+      "pt": "Como posso me tornar um administrador?"
+    },
+    "respuesta": {
+      "es": "Los administradores son miembros activos y de confianza de la comunidad que demuestran liderazgo y ayudan a mantener el orden. Si estás interesado, participa activamente y ayuda a otros. Eventualmente, el equipo de admins puede notar tu contribución y considerarte.",
+      "en": "Admins are active and trusted community members who show leadership and help maintain order. If you are interested, participate actively and help others. Over time, the admin team may notice your contributions and consider you.",
+      "pt": "Os administradores são membros ativos e de confiança da comunidade que demonstram liderança e ajudam a manter a ordem. Se tiver interesse, participe ativamente e ajude os outros. Com o tempo, a equipe de admins poderá notar suas contribuições e considerá-lo."
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "humbix",
+    "nombre": "Humbix",
+    "categoria": "Modular Workspace",
+    "logo": "https://cdn.worldwidedevs.org/logos/humbix-com.svg",
+    "website": "https://humbix.com",
+    "descripcion": {
+      "es": "Plataforma de trabajo modular para startups y proyectos digitales.",
+      "en": "Modular workspace platform for startups and digital projects.",
+      "pt": "Plataforma de trabalho modular para startups e projetos digitais."
+    }
+  },
+  {
+    "id": "vixual",
+    "nombre": "Vixual",
+    "categoria": "VR / XR Cinema",
+    "logo": "https://cdn.worldwidedevs.org/logos/vixual-movie-com.svg",
+    "website": "https://vixualmovie.com",
+    "descripcion": {
+      "es": "Salas de cine virtuales inmersivas en VR, AR y XR.",
+      "en": "Immersive virtual cinemas with VR, AR, and XR.",
+      "pt": "Salas de cinema virtuais imersivas em VR, AR e XR."
+    }
+  },
+  {
+    "id": "github",
+    "nombre": "GitHub",
+    "categoria": "Dev Tools & Open Source",
+    "logo": "/img/sponsors/github.svg",
+    "website": "https://github.com",
+    "descripcion": {
+      "es": "La plataforma de desarrollo de software más grande del mundo.",
+      "en": "The world's largest software development platform.",
+      "pt": "A maior plataforma de desenvolvimento de software do mundo."
+    }
+  },
+  {
+    "id": "cloudflare",
+    "nombre": "Cloudflare",
+    "categoria": "Edge Cloud & Security",
+    "logo": "/img/sponsors/cloudflare.svg",
+    "website": "https://cloudflare.com",
+    "descripcion": {
+      "es": "Red global de infraestructura y rendimiento web.",
+      "en": "Global web performance and infrastructure network.",
+      "pt": "Rede global de infraestrutura e desempenho web."
+    }
+  },
+  {
+    "id": "supabase",
+    "nombre": "Supabase",
+    "categoria": "Open Source Backend",
+    "logo": "/img/sponsors/supabase.svg",
+    "website": "https://supabase.com",
+    "descripcion": {
+      "es": "Alternativa de código abierto a Firebase con PostgreSQL.",
+      "en": "Open source Firebase alternative built on PostgreSQL.",
+      "pt": "Alternativa de código aberto ao Firebase com PostgreSQL."
+    }
+  },
+  {
+    "id": "jetbrains",
+    "nombre": "JetBrains",
+    "categoria": "Developer Ecosystem",
+    "logo": "/img/sponsors/jetbrains.svg",
+    "website": "https://jetbrains.com",
+    "descripcion": {
+      "es": "Herramientas profesionales para desarrolladores de software.",
+      "en": "Professional tools for software developers.",
+      "pt": "Ferramentas profissionais para desenvolvedores de software."
+    }
+  }
+]

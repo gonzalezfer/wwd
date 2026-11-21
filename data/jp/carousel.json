@@ -1,0 +1,104 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en el carrusel de la web.",
+    "visible": false,
+    "tipo": "imagen",
+    "archivo": "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg",
+    "titulo": {
+      "ja": "スライドタイトルの例 (テンプレート)",
+      "en": "Example Slide Title (Template)",
+      "es": "Título de Diapositiva de Ejemplo (Plantilla)"
+    },
+    "descripcion": {
+      "ja": "ショーケーススライダー用のサンプル説明文。",
+      "en": "Example description for showcase slider.",
+      "es": "Descripción de ejemplo para el carrusel principal."
+    },
+    "botones": [
+      {
+        "texto": {
+          "ja": "ボタンテキスト",
+          "en": "Button Text",
+          "es": "Texto del Botón"
+        },
+        "link": "https://chat.whatsapp.com/ejemplo",
+        "externo": true
+      }
+    ]
+  },
+  {
+    "tipo": "imagen",
+    "archivo": "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "titulo": {
+      "ja": "コードを極めよう。<br>コミュニティで共に学ぶ。",
+      "en": "Master the Code.<br>Learn in Community.",
+      "es": "Domina el Código.<br>Aprende en Comunidad."
+    },
+    "descripcion": {
+      "ja": "日本の開発者のためのプログラミング＆テクノロジーコミュニティ「World Wide Dev's」に参加しよう。知識を共有し、無料リソースにアクセスし、仲間と繋がりましょう。",
+      "en": "Join World Wide Dev's, the collaborative programming and tech community. Share knowledge, access free resources, and connect with developers.",
+      "es": "Únete a World Wide Dev's, la comunidad colaborativa de programación y tecnología. Comparte conocimientos, accede a recursos gratuitos y conecta con desarrolladores."
+    },
+    "botones": [
+      {
+        "texto": {
+          "ja": "コミュニティに参加",
+          "en": "Join the community",
+          "es": "Unirse a la comunidad"
+        },
+        "link": "https://chat.whatsapp.com/JW3FVJ8t2FW43bP7xVQpAo",
+        "externo": true
+      }
+    ]
+  },
+  {
+    "tipo": "imagen",
+    "archivo": "https://i.pinimg.com/originals/50/fa/21/50fa210ac76dc1c82369d8d78ff7e771.gif",
+    "titulo": {
+      "ja": "オフトピック・ラウンジ。<br>リラックスして語り合おう。",
+      "en": "Off Topic Lounge.<br>Relax and Share.",
+      "es": "Espacio Off Topic.<br>Relájate y Comparte."
+    },
+    "descripcion": {
+      "ja": "趣味、ゲーム、ミーム、テックカルチャーについて気軽に語り合えるコミュニティメンバーのための交流スペース。",
+      "en": "A relaxed space to chat about various topics, memes, hobbies, gaming, and tech culture with community members.",
+      "es": "Un espacio distendido para conversar de temas variados, memes, hobbies, videojuegos y cultura tech con los miembros de la comunidad."
+    },
+    "botones": [
+      {
+        "texto": {
+          "ja": "オフトピックに参加",
+          "en": "Join Off Topic",
+          "es": "Unirme a Off Topic"
+        },
+        "link": "https://chat.whatsapp.com/GGVveaOckI3Dwcx8m7MD3S",
+        "externo": true
+      }
+    ]
+  },
+  {
+    "tipo": "imagen",
+    "archivo": "https://images.pexels.com/photos/8134019/pexels-photo-8134019.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "titulo": {
+      "ja": "日本のエンジニアや<br>プロフェッショナルと繋がろう。",
+      "en": "Connect with Leaders<br>and Tech Developers.",
+      "es": "Conéctate con Líderes<br>y Desarrolladores."
+    },
+    "descripcion": {
+      "ja": "限定イベント、メンターシップ、ワークショップ、共同プロジェクトに参加して、ソフトウェア開発のキャリアを加速させましょう。",
+      "en": "Participate in exclusive events, mentorships, hands-on workshops, and collaborative projects to boost your software development career.",
+      "es": "Participa en eventos exclusivos, mentorías, talleres prácticos y proyectos colaborativos para impulsar tu carrera en el desarrollo de software."
+    },
+    "botones": [
+      {
+        "texto": {
+          "ja": "今後のイベント",
+          "en": "Upcoming Events",
+          "es": "Próximos Eventos"
+        },
+        "link": "#comunidad",
+        "tab": "eventos"
+      }
+    ]
+  }
+]

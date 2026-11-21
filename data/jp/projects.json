@@ -1,0 +1,19 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web.",
+    "visible": false,
+    "logo": "/img/logo.enc",
+    "nombre": {
+      "es": "Proyecto de Ejemplo (Plantilla)",
+      "en": "Example Project (Template)",
+      "jp": "プロジェクトの例 (テンプレート)"
+    },
+    "descripcion": {
+      "es": "Descripción de ejemplo del proyecto de la comunidad.",
+      "en": "Example description of the community project.",
+      "jp": "コミュニティプロジェクトの例の説明。"
+    },
+    "website": "https://worldwidedevs.com",
+    "autor": "John Doe"
+  }
+]

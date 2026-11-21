@@ -1,0 +1,125 @@
+[
+  {
+    "_comentario": "EJEMPLO / PLANTILLA: Mantener 'visible': false para que no se muestre en la web ni se cuente como colaborador activo.",
+    "visible": false,
+    "nombre": "Nombre del Colaborador de Ejemplo (Plantilla)",
+    "descripcion": {
+      "es": "Tipo de colaboración o aporte a la comunidad",
+      "en": "Type of collaboration or community contribution",
+      "pt": "Tipo de colaboração ou contribuição para a comunidade"
+    },
+    "foto": "Fotografia-horizontal-o-vertical-Foto-de-Claudia-Nicolow.jpg",
+    "banner": "/img/default_banner.png",
+    "grupos": {
+      "es": [
+        "Recursos",
+        "Aportes"
+      ],
+      "en": [
+        "Resources",
+        "Contributions"
+      ],
+      "pt": [
+        "Recursos",
+        "Contribuições"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com/ejemplo"
+      },
+      {
+        "tipo": "linkedin",
+        "url": "https://linkedin.com/in/ejemplo"
+      }
+    ]
+  },
+  {
+    "nombre": "Comunidad Activa",
+    "descripcion": {
+      "es": "Curadores y Miembros Destacados",
+      "en": "Curators & Featured Members",
+      "pt": "Curadores e Membros em Destaque"
+    },
+    "foto": "Fotografia-horizontal-o-vertical-Foto-de-Claudia-Nicolow.jpg",
+    "grupos": {
+      "es": [
+        "Recursos",
+        "Aportes"
+      ],
+      "en": [
+        "Resources",
+        "Contributions"
+      ],
+      "pt": [
+        "Recursos",
+        "Contribuições"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com"
+      }
+    ]
+  },
+  {
+    "nombre": "Aportadores de Recursos",
+    "descripcion": {
+      "es": "Donadores de Material Didáctico",
+      "en": "Learning Material Donors",
+      "pt": "Doadores de Material Didático"
+    },
+    "foto": "premium_photo-1661962685099-c6a685e6c61d.avif",
+    "grupos": {
+      "es": [
+        "Libros & Cursos",
+        "Material"
+      ],
+      "en": [
+        "Books & Courses",
+        "Materials"
+      ],
+      "pt": [
+        "Livros & Cursos",
+        "Material"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "linkedin",
+        "url": "https://linkedin.com"
+      }
+    ]
+  },
+  {
+    "nombre": "Mentores de la Comunidad",
+    "descripcion": {
+      "es": "Apoyo Técnico & Guía",
+      "en": "Technical Support & Guidance",
+      "pt": "Apoio Técnico & Guia"
+    },
+    "foto": "/img/iniciativa-dev-2026.png",
+    "grupos": {
+      "es": [
+        "Mentorías",
+        "Talleres"
+      ],
+      "en": [
+        "Mentorships",
+        "Workshops"
+      ],
+      "pt": [
+        "Mentorias",
+        "Workshops"
+      ]
+    },
+    "links": [
+      {
+        "tipo": "github",
+        "url": "https://github.com"
+      }
+    ]
+  }
+]
